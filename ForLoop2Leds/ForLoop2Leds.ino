@@ -14,6 +14,8 @@ pinMode(redLEDPin,OUTPUT);
 pinMode(yellowLEDPin,OUTPUT);
 }
 
+// comentario
+
 void loop() {
   // put your main code here, to run repeatedly:
   int j=1;
