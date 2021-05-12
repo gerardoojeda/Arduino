@@ -5,13 +5,7 @@ int rWaitTimeOff=250;
 int yellowLEDPin=11;
 int yWaitTimeOn=250;
 int yWaitTimeOff=250;
-<<<<<<< HEAD
-int reps=3;
-int gatel;
-=======
 int reps=4;
-
->>>>>>> 51cff004fe6f496cb6b8a358dd74b225c28f25e0
 
 void setup() {
   // put your setup code here, to run once:
