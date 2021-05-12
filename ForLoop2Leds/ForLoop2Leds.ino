@@ -5,7 +5,7 @@ int rWaitTimeOff=250;
 int yellowLEDPin=11;
 int yWaitTimeOn=250;
 int yWaitTimeOff=250;
-int reps=2;
+int reps=4;
 
 
 void setup() {
